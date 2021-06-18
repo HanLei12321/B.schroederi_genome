@@ -25,4 +25,5 @@ Codes for effective population size estimation, and divergence analysis.
 06.Nextdenovo_polish_genome
 
 Genome files (intermediate files) after Nexdenove and polish.  Since the github upload file size limit is 100Mb, We splited the genome file into 3 parts and then upload. The user uses the following command line to obtain the complete genome file.
+
 cat Scaffolds_part1.fasta Scaffolds_part2.fasta Scaffolds_part2.fasta >B.schroederi_genome.fasta
