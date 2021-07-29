@@ -4,7 +4,7 @@ Codes for the B.schroederi genome project in 2021
 
 01.assembly
 
-Codes for de novo genome assembly and annotation.
+Codes for de novo genome assembly and annotation. Added Hic plot figures.
 
 02.phylogeny
 
